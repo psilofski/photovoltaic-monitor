@@ -1,0 +1,39 @@
+;;
+Clock;TimeStamp;
+;ExlSolIrr;
+Irradiance;IntSolIrr;
+;SMA-h-On;
+Tambient;TmpAmb C;
+Tmodule;TmpMdul C;
+;WindVel m/s;
+Idc;A.Ms.Amp;
+Vdc;A.Ms.Vol;
+Pdc;A.Ms.Watt;
+;A1.Ms.Amp;
+;A2.Ms.Amp;
+;A3.Ms.Amp;
+;A4.Ms.Amp;
+;A5.Ms.Amp;
+Idc_b;B.Ms.Amp;
+Vdc_b;B.Ms.Vol;
+Pdc_b;B.Ms.Watt;
+;B1.Ms.Amp;
+Error;Error;Fehler
+En_meter;E-Total;
+;GridMs.Hz;
+;GridMs.PhV.phsA;
+;GridMs.PhV.phsB;
+;GridMs.PhV.phsC;
+;GridMs.TotPFPrc;
+;Inv.TmpLimStt;
+;InvCtl.Stt;
+Mode;Mode;Status
+;Mt.TotOpTmh;
+;Mt.TotTmh;
+;Op.EvtCntUsr;
+;Op.EvtNo;
+;Op.GriSwStt;
+;Op.TmsRmg;
+Pac;Pac;
+;PlntCtl.Stt;
+SN;Serial Number;Seriennummer

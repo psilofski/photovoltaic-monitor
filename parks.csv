@@ -1,0 +1,6 @@
+AA;No;Name;location;KWp;DNS;routerPort;logger;loggerPort;ftpPass;browserAddr;ftpPort;Trackers;parkNameTracker;NofTrackers;trackerPort;CameraPort;WattPrice;smsNum
+_plA5;2;test user3;Asimi;80;klery.zapto.org;21;sma;80;user3 /*/ 3;;;atlas;kostantakis asimiNone;4;15000;90;0.55;3,06995E+11
+_plA2;3;test user2;Ierapetra;80;klery.zapto.org;21;sma;80;user2 /*/ 2;;;;;;;90;0.55;3,06995E+11
+_plA11;5;test user4;Sitanos;80;klery.zapto.org;21;sma;80;user4 /*/ 4;;;Deger;;;;;0.55;3,06995E+11
+_plA12;4;test user5;Sitanos;80;klery.zapto.org;21;sma;80;user5 /*/ 5;;21;atlas;plasis maris-mpouNone;4;15000;90;0.55;3,06995E+11
+_plA19;6;test user6;Pigaidakia;50;klery.zapto.org;21;sma;80;user6 /*/ 6;;;;;;;90;0.55;3,06995E+11
